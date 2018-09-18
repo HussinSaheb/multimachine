@@ -1,2 +1,1 @@
 #Jenkins Pipeline CI
-random
